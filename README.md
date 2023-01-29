@@ -8,7 +8,7 @@ I am a software engineering student since 2020.
 
 * 🌍  I'm based in Syria
 * ✉️  You can contact me at [mohamedx2754@gmail.com](mailto:mohamedx2754@gmail.com)
-* 🧠  I'm learning MERN Stack
+* 🧠  I'm learning Android Development with Kotlin
 
 ### Skills
 
